@@ -4,12 +4,15 @@
   "description": "my ui",
   "main": "index.js",
   "scripts": {
+    "build": "vite build",
+    "dev": "vite",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "cunzaizhuyi",
   "license": "ISC",
   "dependencies": {
+    "lodash": "^4.17.21",
     "vue": "3.2.36"
   },
   "devDependencies": {

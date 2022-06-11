@@ -1,3 +1,3 @@
-import { add } from '@m-ui/utils'
+// import { add } from '@m-ui/utils'
 
-console.log('m-ui add: ', add(1, 3));
+// console.log('m-ui add: ', add(1, 3));
